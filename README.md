@@ -20,7 +20,6 @@ The data correlation showed that:
 - The impact of credit history on loan approval is unclear due to missing values.
 
 ## Process
-(fill in what you did during EDA, cleaning, feature engineering, modeling, deployment, testing)
 ### 1 - Data Exploration
 The first step of the project consists of:
 - finding the amount of null values in each features
